@@ -1,3 +1,9 @@
+######################
+Modificado:
+ - Al elemento SVG se le ha añadido la clase .nvd3. De esta manera, no afecta a todos los SVG, solo a los
+ que contenga la clase .nvd3
+######################
+
 # NVD3 - v1.1.15-beta
 ## Release notes for version 1.1.15 beta
 * Various fixes across the board
